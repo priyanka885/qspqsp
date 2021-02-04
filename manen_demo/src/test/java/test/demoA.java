@@ -8,5 +8,7 @@ public class demoA {
  public void test()
  {
 	Reporter.log("hi", true);
+	 //modification
+	 Reporter.log("bye",true);
  }
 }
